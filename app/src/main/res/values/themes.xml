@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RtspStreamViewer" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#F38C79</item>
+         <item name="colorPrimaryVariant">#FFC1B4</item>
+         <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.RtspStreamViewer" parent="Base.Theme.RtspStreamViewer" />
+</resources>
